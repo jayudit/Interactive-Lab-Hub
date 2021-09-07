@@ -70,7 +70,11 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
+Setting: For this lab, the setting is a bathroom. The idea for this device is a smart electric toothbrush that helps the player/user brush their teeth more effectively. My player, Anthony, has an 8 am class at Cornell Tech and he hates getting up early. Before going to class each morning, Anthony rushes to brush his teeth and almost always ends up rushing and not brushing for the recommended 2 minutes.
+
+To avoid dental issues in the future, Anthony has decided to buy this state-of-the-art smart electric toothbrush. The activity for this interaction involves Anthony picking up the toothbrush and pressing the start button on the device when he starts brushing his teeth. The toothbrush flashes a red (warning light) every 30 seconds that indicates to the player to switch to another quadrant of their mouth. After 2 minutes are up, the toothbrush flashes a green light that notifies the player that they can stop brushing their teeth.
+
+The goals for the player is to brush their teeth for the recommended two minutes spending 30 seconds in each quadrant of the mouth.
 
 \*\***Include a picture of your storyboard here**\*\*
 
