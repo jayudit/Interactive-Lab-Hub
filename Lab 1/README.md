@@ -56,18 +56,6 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 ## Part A. Plan 
 
-To stage the interaction with your interactive device, think about:
-
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
-
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
-
-_Activity:_ What is happening between the actors?
-
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
-
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
-
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
 Setting: For this lab, the setting is a bathroom. The idea for this device is a smart electric toothbrush that helps the player/user brush their teeth more effectively. My player, Anthony, has an 8 am class at Cornell Tech and he hates getting up early. Before going to class each morning, Anthony rushes to brush his teeth and almost always ends up rushing and not brushing for the recommended 2 minutes.
@@ -84,7 +72,7 @@ Present your idea to the other people in your breakout room. You can just get fe
 
 \*\***Summarize feedback you got here.**\*\*
 
-Waiting to receive peer feedback!
+I got feedback to keep the light on the whole time instead of using flashing lights. After each 30 seconds pass, the light can transition onto the next color.
 
 ## Part B. Act out the Interaction
 
@@ -98,7 +86,6 @@ The physical interaction with my device felt pretty natural and smooth. I acted 
 
 One idea that we came up with is adding a vibration motor to the device in order to give the user some kind of physical feedback along with the light feedback. This way, in case they miss the light feedback, they will still feel the vibration while holding the toothbrush.
 
-
 ## Part C. Prototype the device
 
 You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
@@ -111,13 +98,12 @@ If you run into technical issues with this tool, you can also use a light switch
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
-
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
 
@@ -136,6 +122,8 @@ Think about the setting of the device: is the environment a place where the devi
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+
+PENDING
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
