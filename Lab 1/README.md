@@ -84,13 +84,19 @@ Present your idea to the other people in your breakout room. You can just get fe
 
 \*\***Summarize feedback you got here.**\*\*
 
+Waiting to receive peer feedback!
+
 ## Part B. Act out the Interaction
 
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+The physical interaction with my device felt pretty natural and smooth. I acted out brushing my teeth for the full two minutes while flashing the respective lights as mentioned on the storyboard. One thing I did notice though, is that the light has to flash for long enough so the person doesn't miss the light. 3 seconds might be too short because one might miss the flashing light. Therefore, the light must flash for at least 5 seconds. 
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+
+One idea that we came up with is adding a vibration motor to the device in order to give the user some kind of physical feedback along with the light feedback. This way, in case they miss the light feedback, they will still feel the vibration while holding the toothbrush.
 
 
 ## Part C. Prototype the device
