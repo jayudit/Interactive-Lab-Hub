@@ -98,6 +98,10 @@ If you run into technical issues with this tool, you can also use a light switch
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
+Tinkerbelle was pretty straightforward for me. Since I am on a windows machine, I just downloaded the zip file of the entire project directory and ran the python file using an IDE. Once I ran the file, the server was live as shown in the image below.
+
+![image](https://user-images.githubusercontent.com/70334332/132592669-a2aab86e-fbeb-45bb-b37c-51b89ed1e974.png)
+
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
