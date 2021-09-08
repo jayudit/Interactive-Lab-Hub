@@ -78,10 +78,11 @@ The goals for the player is to brush their teeth for the recommended two minutes
 
 \*\***Include a picture of your storyboard here**\*\*
 
+![storyboard](https://user-images.githubusercontent.com/70334332/132440683-735df2e6-4a32-4886-8d86-f70c8e5504de.jpg)
+
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
-
 
 ## Part B. Act out the Interaction
 
