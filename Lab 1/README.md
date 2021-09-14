@@ -119,6 +119,8 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Include sketches of what your device might look like here.**\*\*
 
+![Design sketch](https://user-images.githubusercontent.com/70334332/133178060-0ead9cd2-fa82-4c97-8ea3-b9eda28cc59c.jpg)
+
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
 
