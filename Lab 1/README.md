@@ -123,6 +123,16 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
+The design for my toothbrush aims to be sleek, modern and minimalistic to give users a rich and seamless experience. Some design features include
+- There will be only one button on the front of the toothbrush to keep things simple - this will allow the user to turn the toothbrush on/off
+- The entire bottom body of the toothbrush will have LED lighting so the users don't miss the light.
+- The head of the toothbrush will be removable which will allow users to change the bristles when they get old or choose the softness of the bristles.
+- The entire toothbrush will be waterproof since it has to be used in environments where water will be around.
+- There will be a built in ultra sonic vibrating motor into the body of the toothbrush that will help users to clean their teeth more efficiently through sonic vibrations.
+
+Here are pictures of the costumed device.
+![IMG_0182](https://user-images.githubusercontent.com/70334332/133184094-50f73dfd-e24b-400a-a983-049c7d77572d.JPG)
+![IMG_0183](https://user-images.githubusercontent.com/70334332/133184106-df5e7546-6e49-40dd-9085-cc47d57e9fe2.JPG)
 
 ## Part F. Record
 
