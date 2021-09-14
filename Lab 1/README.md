@@ -181,6 +181,6 @@ My new design for this interactive toothbrush takes into account some feedback f
 The storyboard for my modified interaction is shown below.
 ![updated storyboard](https://user-images.githubusercontent.com/70334332/133191137-92b1f053-8c6b-4ce1-8840-b3ae9dff9bed.JPG)
 
-The new interaction video is linked here. [Watch the video](https://youtu.be/MUkoSiG44i0)
+The new interaction video is linked here. [Watch the video](https://youtu.be/JjgGcCdouPQ)
 
 
