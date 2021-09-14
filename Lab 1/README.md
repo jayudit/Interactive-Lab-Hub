@@ -109,7 +109,7 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 My set-up work basically involved setting up Tinkerbelle and making sure that I can use Jane to change the color of my phone screen using my computer. Below is a video showing how that works.
 
-[![Watch the video](https://youtu.be/w2GY4OkvF5c)
+[Watch the video](https://youtu.be/w2GY4OkvF5c)
 
 ## Part E. Costume the device
 
