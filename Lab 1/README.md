@@ -148,7 +148,6 @@ Be generous in acknowledging their contributions! And also recognizing any other
 I worked on this idea by myself.
 
 
-
 # Staging Interaction, Part 2 
 
 This describes the second week's work for this lab activity.
@@ -160,6 +159,10 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
+Feedback from Victoria Zhang: "Super cool idea. Being able to track how much time I've spent on each quadrant of my teeth and make sure I am brushing long enough would be a game changer"
+
+Feedback from Jeongmin Huh: "Cool idea. Will the toothbrush notify the user if they go over the 2 minutes mark?" | "Storyboard shows that the toothbrush is already lighted red when the user starts brushing their teeth instead of at the 30 second mark"
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
@@ -168,3 +171,16 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+My new design for this interactive toothbrush takes into account some feedback from my peers and also some creative thinking in order to allow for a natural interaction with the user. The changes include:
+1. The device will vibrate in a peculiar manner at the 30, 60, 90 second interval to give the user some physical feedback in case they miss the light feedback.
+2. When the user presses the start button on the toothbrush, the toothbrush will show a solid blue light 5 seconds. Instead of changing the color of the light every 30 seconds, the toothbrush will show the same blue light every 30 seconds to notify the user to switch their quadrant of the mouth.
+3. At the 120 second mark, the toothbrush cycle will end and it will automatically turn off. When this happens, the toothbrush and the light will automatically turn off to notify the user that they have brushed for a 2 minute cycle.
+4. If the user wishes to brush for longer, they may press the power button again to restart the 2 minute cycle.
+
+The storyboard for my modified interaction is shown below.
+![updated storyboard](https://user-images.githubusercontent.com/70334332/133191137-92b1f053-8c6b-4ce1-8840-b3ae9dff9bed.JPG)
+
+The new interaction video is linked here. [Watch the video](https://youtu.be/MUkoSiG44i0)
+
+
