@@ -136,12 +136,16 @@ Here are pictures of the costumed device.
 
 ## Part F. Record
 
-\*\***Take a video of your prototyped interaction.**\*\*
+Here is a video of my interaction with the device. [Watch the video](https://youtu.be/MUkoSiG44i0)
 
-PENDING
+Some notes regarding the video
+1. I wasn't able to get help to shoot the video because I live alone. Therefore, I shot the video on my desk instead of the bathroom so I could change the lights while simultaenously staging the interaction.
+2. According to the design, the light changes every 30 seconds. However, I changed the light in the video in 10-15 seconds to demonstrate the design with a shorter video and not drag the video out too long.
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
+I worked on this idea by myself.
 
 
 
