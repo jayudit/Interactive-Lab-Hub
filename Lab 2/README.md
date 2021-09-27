@@ -214,6 +214,8 @@ Here is a video of my PiClock -> [Watch the video](https://youtu.be/IVfrY9GjkUI)
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
 
+The feedback I got on my clock version 1 was to somehow try and show the actual hours, minutes, and seconds in the clock. Someone also asked me add a visual component to the clock. Someone also asked me to try and make my clock interactive through the buttons on the Adafruit.
+
 # Lab 2 Part 2
 
 Pull Interactive Lab Hub updates to your repo.
