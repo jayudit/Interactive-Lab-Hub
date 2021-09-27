@@ -7,7 +7,7 @@ For our first Pi project, we will pay homage to the [timekeeping devices of old]
 It is worth spending a little time thinking about how you mark time, and what would be useful in a clock of your own design.
 
 **Please indicate anyone you collaborated with on this Lab here.**
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+I worked on this lab by myself. My inspiration for this lab was Mahatma Gandhi's quote "God's time never stops".
 
 ## Prep
 
@@ -180,6 +180,8 @@ Can you make time interactive? You can look in `screen_test.py` for examples for
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
+Code is linked above.
+For the first version of my clock, I wish to remind users that time is continuous and never stops so they choose to spend their wisely. I think a lot of people look at time as something that is continuous and keeps flowing. As the day goes on, the hours in the clock slowly fill up. A message in the bottom of the screen reminds users to spend their time wisely. 
 
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 
@@ -194,8 +196,9 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
+Here isa video of my PiClock -> [Watch the video](https://youtu.be/IVfrY9GjkUI)
 
-\*\*\***Take a video of your PiClock.**\*\*\*
+
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
