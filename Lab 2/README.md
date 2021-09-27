@@ -7,6 +7,7 @@ For our first Pi project, we will pay homage to the [timekeeping devices of old]
 It is worth spending a little time thinking about how you mark time, and what would be useful in a clock of your own design.
 
 **Please indicate anyone you collaborated with on this Lab here.**
+
 I worked on this lab by myself. My inspiration for this lab was Mahatma Gandhi's quote "God's time never stops".
 
 ## Prep
