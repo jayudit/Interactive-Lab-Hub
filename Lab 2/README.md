@@ -202,7 +202,9 @@ Here is a video of my PiClock -> [Watch the video](https://youtu.be/IVfrY9GjkUI)
 
 
 ## Part G. 
-## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+1. I would like to make the clock interactive in some way. I hope to add some features that allows users to press the buttons and interact with the clock.
+2. I want to show the exact time to the users, not just fill out the bars corresponding to hours, minutes, and seconds.
+3. If I have time, I want to use a proximity sensor to turn the clock on. When the proximity sensor senses something, the clock will turn on.
 
 
 # Prep for Part 2
