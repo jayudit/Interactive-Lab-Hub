@@ -220,7 +220,7 @@ The feedback I got on my clock version 1 was to somehow try and show the actual 
 
 Pull Interactive Lab Hub updates to your repo - Done
 
-Version 2 of PiClock -> [Watch the video]https://youtu.be/rVeoaj3DzPM
+Version 2 of PiClock -> [Watch the video](https://youtu.be/rVeoaj3DzPM)
 
 Modify the code from last week's lab to make a new visual interface for your new clock. You may [extend the Pi](Extending%20the%20Pi.md) by adding sensors or buttons, but this is not required.
 
