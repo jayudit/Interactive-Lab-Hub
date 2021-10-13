@@ -108,13 +108,22 @@ From a remote browser on the same network, check to make sure your webserver is 
 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
 
-My idea for this lab is to make a quiz style game with participants. The Raspberry Pi will act as the trivia host and the participant will be able to enjoy a game of trivia with the raspberry pi through speech interaction. 
+My idea for this lab is to make a trivia style game with participants. The Raspberry Pi will act as the trivia host and the participant will be able to enjoy a game of trivia with the raspberry pi through speech interaction. 
 
 \*\***Post your storyboard and diagram here.**\*\*
+
+Here's a storyboard for my planned interaction!
+
+![storyboard](https://user-images.githubusercontent.com/70334332/137225939-69c941ee-c4b2-4da1-be50-bfb55e8fec16.JPG)
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
+
+Since this is a trivia game, if a user answers incorrectly, there must be a logic/dialogue in place to handle the wrong answer and instruct the user what happens next. I used a Google Flowchart to imagine and create the dialogue between the user and the Raspberry Pi. Here is a photo of the dialogue process.
+
+![image](https://user-images.githubusercontent.com/70334332/137228442-5eeda091-1ab3-459a-bc09-20a34b105fd9.png)
+
 
 ### Acting out the dialogue
 
