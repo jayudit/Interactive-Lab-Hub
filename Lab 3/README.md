@@ -68,9 +68,11 @@ One thing you might need to pay attention to is the audio input setting of Pi. S
 
 
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides. **\*\*
+
 This file is called zipcode.sh
 Here's a screenshot for what happens when I say my zip code after executing this file
-![image](https://user-images.githubusercontent.com/70334332/137056495-45de032f-455d-40ec-a7e9-e591b41af4ae.png)
+
+<img width="197" alt="Capture" src="https://user-images.githubusercontent.com/70334332/137056738-4874973c-798a-411d-827e-00c28c71f847.PNG">
 
 
 Bonus Activity:
