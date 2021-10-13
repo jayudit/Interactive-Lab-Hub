@@ -67,12 +67,11 @@ In particular, look at `test_words.py` and make sure you understand how the voca
 One thing you might need to pay attention to is the audio input setting of Pi. Since you are plugging the USB cable of your webcam to your Pi at the same time to act as speaker, the default input might be set to the webcam microphone, which will not be working for recording.
 
 
-\*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.
-
+\*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides. **\*\*
 This file is called zipcode.sh
 Here's a screenshot for what happens when I say my zip code after executing this file
 ![image](https://user-images.githubusercontent.com/70334332/137056495-45de032f-455d-40ec-a7e9-e591b41af4ae.png)
-**\*\*
+
 
 Bonus Activity:
 
