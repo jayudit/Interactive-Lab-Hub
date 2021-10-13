@@ -72,7 +72,7 @@ One thing you might need to pay attention to is the audio input setting of Pi. S
 This file is called zipcode.sh
 Here's a screenshot for what happens when I say my zip code after executing this file
 
-<img width="197" alt="Capture" src="https://user-images.githubusercontent.com/70334332/137056738-4874973c-798a-411d-827e-00c28c71f847.PNG">
+<img width="161" alt="Capture" src="https://user-images.githubusercontent.com/70334332/137056851-2483de99-cf2e-48b4-8bdc-0d3c2cb5f5f1.PNG">
 
 
 Bonus Activity:
