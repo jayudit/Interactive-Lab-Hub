@@ -122,7 +122,7 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 
 Since this is a trivia game, if a user answers incorrectly, there must be a logic/dialogue in place to handle the wrong answer and instruct the user what happens next. I used a Google Flowchart to imagine and create the dialogue between the user and the Raspberry Pi. Here is a photo of the dialogue process.
 
-![image](https://user-images.githubusercontent.com/70334332/137228442-5eeda091-1ab3-459a-bc09-20a34b105fd9.png)
+![image](https://user-images.githubusercontent.com/70334332/137238454-4de7348b-1c5f-43b0-a3e7-13ee56ad91ab.png)
 
 
 ### Acting out the dialogue
@@ -140,6 +140,8 @@ In the [demo directory](./demo), you will find an example Wizard of Oz project. 
 
 \*\***Describe if the dialogue seemed different than what you imagined, or when acted out, when it was wizarded, and how.**\*\*
 
+For my lab, my goal is to automate the entire system using loops in Python. Therefore, I don't need to do any manual wizarding. Everything will be automated and handled using Python scripts.
+
 # Lab 3 Part 2
 
 For Part 2, you will redesign the interaction with the speech-enabled device using the data collected, as well as feedback from part 1.
@@ -147,8 +149,19 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 ## Prep for Part 2
 
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
-2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
-3. Make a new storyboard, diagram and/or script based on these reflections.
+
+One thing that could use improvement is letting the user the know when they get the answer correct. After the user answers the Trivia Questions, the system must notify them promptly so they know whether they got the question correct. Another thing that needs improvement in the design is informing the user how much time they have to answer the questions. Since the Pi is only listening for a set period of time, the user must say an answer to the question within that time period. This also reflects real life trivia where players are only allowed a limited time period to answer questions. Another improvement would be to let the user know how much money they have won after each round instead of giving them a generic response that the answer is correct.
+
+3. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
+
+One idea I have is to use LED lighting to clarify the interaction with users. If the user gets an answer wrong, a red LED light would flash and if they got the answer correct, a green LED light would flash.
+
+5. Make a new storyboard, diagram and/or script based on these reflections.
+
+Here is a new dialogue diagram based on the improvements
+
+![image](https://user-images.githubusercontent.com/70334332/137238534-2b979a41-ae29-45fa-b8f0-16ab134ade4a.png)
+
 
 ## Prototype your system
 
