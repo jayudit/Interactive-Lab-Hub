@@ -129,7 +129,11 @@ Since this is a trivia game, if a user answers incorrectly, there must be a logi
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
+Here is a video of me and my friend acting out the dialogue (the face is hidden for privacy reasons) ->  [Watch the video](https://youtu.be/D3N3KM8Nsgg)
+
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+
+This was a very fun activity. It helped me understand how a potential user might interact with the device I am designing. The user understood the instructions I gave as the device well and the dialogue flowed properly. There were a couple instances where there were inputs from the user were different from what I planned. Firstly, the system didn't have a limit for how many times a user is allowed to get a question wrong before the game ends. Secondly, the user asked for a hint for some questions.
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
