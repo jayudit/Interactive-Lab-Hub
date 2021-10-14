@@ -180,18 +180,23 @@ Try to get at least two people to interact with your system. (Ideally, you would
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+
+I think the entire idea worked well. The idea of having a trivia game with participants using the Raspberry Pi and speech interaction was a lot of fun to design and implement. The speech to text and text to speech engine seemed to work well once I figured out all the issues and added all possible words to the vocabulary. The system was speaking out the sentences it was designed to speak and also converting human speech to text pretty accuractely and efficiently.
+
+One thing that wasn't ideal was the amount of time it took to convert speech to text. Since it took a while for the model to convert the speech, there were long waiting intervals between each question.
+
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+Since I used Python to automate and control the interaction, most of the game logic worked pretty well. i.e., the controller automatically moved through the game as per the loops that were designed. When a user answered a question correctly, the controller moved to the next and when the question was incorrect, the controller gave the user another try to answer the question. I also had the controller spit out the answer user says into the mic and that worked pretty well and I could see what the user said in the controller.
+
+Adding sensors to the system and integrating it with the game logic didn't work so well. Since the sensor data is used in loops, sometimes the system would skip loops or end loops incorrectly if there wasn't an expected input from the sensor.
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
+There are several things that can be done to design a more autonomous version of the system. Most of these things revolve around error/alternate handling. Basically, its important to code all possible inputs a user would give through speech and through the sensors and have the system respond to those inputs appropriately. 
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
-
+It's possible to store a dataset of each users interactions with the system. For example, we could record all the possible answers a user might say for a question and add them to the vocabulary. Furthermore, one interesting thing to capture would be the user's reactions to each question using a camera and some sort of computer vision program. This would help us better understand how users react to questions, how much time they take to answer, and whether they get the questions correct/wrong based on their initial reactions.
