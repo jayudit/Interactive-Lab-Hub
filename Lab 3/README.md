@@ -172,7 +172,26 @@ The system should:
 
 *Document how the system works*
 
+The system has the following components.
+1. Adafruit display to show graphics and instructions
+2. USB Mic to collect speech input from users
+3. Speaker to recite text to users
+4. Joystick to move to next question, retry question etc.
+5. Proximity sensor to detect when the user wants to play
+
+The user goes near the proximity sensor to start a game of Millionaire. Millionaire is a trivia style game that rewards the users up to 1 million dollars if they win. Once the game starts, the system recites the first question to the user. The user has 10 seconds to speak the answer loudly and clearly into the mic. The user must follow the instructions given by the system and move the joystick accordingly to continue playing. 
+
 *Include videos or screencaptures of both the system and the controller.*
+
+Here is the picture of the final system
+![system](https://user-images.githubusercontent.com/70334332/137251410-114cdb40-952d-4e20-9c03-690c2ee3b34d.jpg)
+
+Here are screencaptures of the controller. As we can see in the screencaptures, the system records the users answers.
+<img width="283" alt="controller" src="https://user-images.githubusercontent.com/70334332/137251477-1d14d6eb-c135-4a49-97de-3b48ab751d16.PNG">
+
+<img width="283" alt="controller2" src="https://user-images.githubusercontent.com/70334332/137251487-fbb1143b-7e7f-4d6f-8820-333e49adef6d.PNG">
+
+Here is a video of the system in action -> [Watch the video](https://youtu.be/uWlOIUWWugM)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
