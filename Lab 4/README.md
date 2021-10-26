@@ -174,11 +174,15 @@ You can go to the [SparkFun GitHub Page](https://github.com/sparkfun/Qwiic_VL53L
 Usually, sensors need to positioned in specific locations or orientations to make them useful for their application. Now that you've tried a bunch of the sensors, pick one that you would like to use, and an application where you use the output of that sensor for an interaction. For example, you can use a distance sensor to measure someone's height if you position it overhead and get them to stand under it.
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
-
+![ideas1](https://user-images.githubusercontent.com/70334332/138782661-bff6168a-a2de-44e1-9da3-2a68d21d7145.jpg)
+![ideas2](https://user-images.githubusercontent.com/70334332/138782665-4bf610cc-00ae-4d81-ba96-b22f7e93cca0.jpg)
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+
+Out of all of my ideas, 3 of them involve some type of distance or proximity sensor. For these type of sensors, it's important that the sensor is placed in the front of the device or in a location where nothing would block/cloud/obstruct them so the physical device in large is still serving its appropriate function. For the physical prototypes associated with capacitive sensors, its crucial to ensure that the capacitive touch area is large enough and easy for the user to reach/touch.
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
+For this lab, I'll be implementing the Reaction Speed Game. Reactions are an important aspect of many careers and jobs. From playing sports, to driving cars and flying planes, reaction speed is an important aspect to measure. What better than an at home reaction speed device? This device allows you to compete against your friends and figure out who has better reactions.
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -220,7 +224,18 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+![design1](https://user-images.githubusercontent.com/70334332/138787830-3d99ead4-e1d2-45b9-827f-a57926d69e42.jpg)
+![design2](https://user-images.githubusercontent.com/70334332/138787833-b08b8e06-a94c-4083-8729-693cd1417909.jpg)
+
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+
+Some questions that these sketches raise are:
+1. Where/how to place the game board such that both players can access it without any interference?
+2. How far apart to distance the capacitance sensors so that they don't interact with each other and cause issues during the game?
+3. Where to place the display screen that will show instructions to the users?
+
+To answer these questions, I have to physically prototype all the three components that go into my design. i.e., the capacitive sensors, the display screen, and the actual game board itself in large.
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
