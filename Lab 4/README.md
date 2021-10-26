@@ -232,19 +232,46 @@ Think about how you want to present the information about what your sensor is se
 
 Some questions that these sketches raise are:
 1. Where/how to place the game board such that both players can access it without any interference?
-2. How far apart to distance the capacitance sensors so that they don't interact with each other and cause issues during the game?
+2. How far apart to distance the capacitive sensors so that they don't interact with each other and cause issues during the game?
 3. Where to place the display screen that will show instructions to the users?
+4. How to connect the pads to the capacitive sensor pins to register when a player/user taps a pad?
 
 To answer these questions, I have to physically prototype all the three components that go into my design. i.e., the capacitive sensors, the display screen, and the actual game board itself in large.
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
+For this lab, I will be picking design number 3.
+
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+
+There were various reasons as to why I chose Design 3 out of all the other designs.
+1. Design 3 separates the game boards for each player so they don't interfere with each other while playing the game.
+2. The screen is placed in the center of the board which means each player is equally distanced from the screen and is able to read the instructions on it well.
+3. The screen being in the center also allows it to be in the players' peripheral vision. This is important because they must be also be able to see the pads and tap them at the same time as looking at the screen.
+4. The capacitive sensors can be placed in 4 corners far apart from each other. This means the player won't touch a sensor pad he/she didn't mean to touch.
 
 Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
 
+Step 1 : Assemble two game boards and punch holes through them to be able to connect copper wires from the bottom.
+![IMG_2265](https://user-images.githubusercontent.com/70334332/138811633-37f20a10-7da9-418c-acf0-abf8ad37e28a.jpg)
+
+Step 2: Use a piece of cardboard to attach and separate both the game boards. This will serve as the center of the board where the screen will be placed.
+![IMG_2271](https://user-images.githubusercontent.com/70334332/138811741-90f6495a-c2f3-4675-84c8-49f0ab21372a.jpg)
+
+Step 3: Cut Aluminium foil into squares that will serve as the conductive touch pads for the game. It's important to design them such that the tape that sticks them onto the game board is on the bottom and doesn't cause issues when a player taps it while playing.
+![IMG_2275](https://user-images.githubusercontent.com/70334332/138811968-413df7d0-0cf7-4814-94a5-4f632d77fbbc.jpg)
+
+Step 4: Stick the aluminium foil pieces into the 4 corners of each game board.
+![IMG_2276](https://user-images.githubusercontent.com/70334332/138812068-87044b74-dfa9-43ad-8f49-d0ceedd396d3.jpg)
+
+Step 5: Use a long piece of cardboard and fold it 4 times to make a stand for the game.
+![IMG_2272](https://user-images.githubusercontent.com/70334332/138812145-9801fabb-02d8-46b8-abbc-2679d8a4c0c6.jpg)
+![IMG_2274](https://user-images.githubusercontent.com/70334332/138812161-a47dc997-4fc8-401b-a30d-0026979e7ecb.jpg)
+
+Step 6: Attach the stands on both sides of the game board to complete the physical design.
+![IMG_2281](https://user-images.githubusercontent.com/70334332/138812405-e27434aa-5811-4a6e-a971-212d708f5528.jpg)
 
 LAB PART 2
 
