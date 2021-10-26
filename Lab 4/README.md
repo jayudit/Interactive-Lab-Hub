@@ -270,7 +270,7 @@ Step 5: Use a long piece of cardboard and fold it 4 times to make a stand for th
 ![IMG_2272](https://user-images.githubusercontent.com/70334332/138812145-9801fabb-02d8-46b8-abbc-2679d8a4c0c6.jpg)
 ![IMG_2274](https://user-images.githubusercontent.com/70334332/138812161-a47dc997-4fc8-401b-a30d-0026979e7ecb.jpg)
 
-Step 6: Attach the stands on both sides of the game board to complete the physical design.
+Step 6: Attach the stands on both sides of the game board to complete the physical cardboard prototype design.
 ![IMG_2281](https://user-images.githubusercontent.com/70334332/138812405-e27434aa-5811-4a6e-a971-212d708f5528.jpg)
 
 LAB PART 2
@@ -313,6 +313,23 @@ We encourage you to try using these controls, **while** paying particular attent
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
+This is what my final device looks like:
+Picture 1 : Top level view
+![IMG_2286](https://user-images.githubusercontent.com/70334332/138817429-d9d473e5-9288-4332-967a-70864ca0429e.jpg)
+Picture 2 : Player game board
+![IMG_2288](https://user-images.githubusercontent.com/70334332/138817458-42390c8d-7244-4b61-8680-8ffd2aafec9f.jpg)
+Picture 3: Screen
+![IMG_2289](https://user-images.githubusercontent.com/70334332/138817479-78dbd4fd-8065-4552-a51b-0a62f6ed3d10.jpg)
+Picture 4: Sits like
+![IMG_2287](https://user-images.githubusercontent.com/70334332/138817590-aa49b36d-f06d-4aba-aced-d0862f5e8d7d.jpg)
+
 * "Works like": shows what the device can do
+
+Here's a video showing what the device "works like" -> [Watch the video](https://vimeo.com/638946980)
+
+The picture below also shows how the capacitive sensors are connected to the pads.
+![IMG_2278](https://user-images.githubusercontent.com/70334332/138818197-137dbc2f-3ef0-4858-8e66-11397f4b5f50.jpg)
+
 * "Acts like": shows how a person would interact with the device
 
+Here's a video showing how the device "acts like"-> [Watch the video](https://vimeo.com/638947081)
