@@ -120,7 +120,7 @@ Flow detection can be used for eye-tracking purposes. If we set the object that 
 
 Object Detection
 
-<img width="322" alt="flow" src="https://user-images.githubusercontent.com/70334332/141001691-2184f263-8966-4744-9d59-7db644eb1eca.PNG">
+<img width="327" alt="object detection" src="https://user-images.githubusercontent.com/70334332/141001873-1691dafe-2f26-449d-a08c-082b58948319.PNG">
 
 Object detection can be used in a variety of applications. One example of object detection would be to build an object detector for kids that would teach kids about the object they bring in front of the camera. Instead of asking parents about an object they're interested in, they could just show it to the object detector and it would detect what the object is and give the kid some information about it.
 
