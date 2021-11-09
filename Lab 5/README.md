@@ -200,6 +200,19 @@ This might take a while to get fully installed. After installation, connect your
 
 **\*\*\*Whether you make your own model or not, include screenshots of your use of Teachable Machines, and write how you might use this to create your own classifier. Include what different affordances this method brings, compared to the OpenCV or MediaPipe options.\*\*\***
 
+TeachableMachines was definitely my favorite method of computer vision based detection and learning algorithms. I tried playing around with the classifier that was provided in the lab 5 folder and it performed pretty well. There were 3 classes in total and it seemed to detect each class well.
+Class 1: Background
+
+<img width="523" alt="background" src="https://user-images.githubusercontent.com/70334332/141003749-f4e3b1b8-4d7f-4924-a301-e1899432d1be.PNG">
+
+Class 2: No Mask
+
+<img width="500" alt="nomask" src="https://user-images.githubusercontent.com/70334332/141003782-b7bd62e6-6a12-4a5d-8cd2-482106174d8a.PNG">
+
+Class 3: Wearing a Mask
+
+<img width="504" alt="mask" src="https://user-images.githubusercontent.com/70334332/141003804-29005c00-d1c2-4294-a0b2-d8d656ebc73d.PNG">
+
 
 *Don't forget to run ```deactivate``` to end the Teachable Machines demo, and to reactivate with ```source tmachine/bin/activate``` when you want to use it again.*
 
