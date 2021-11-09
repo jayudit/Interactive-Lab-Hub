@@ -101,19 +101,27 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 **\*\*\*Try each of the following four examples in the `openCV-examples`, include screenshots of your use and write about one design for each example that might work based on the individual benefits to each algorithm.\*\*\***
 
 Contour Detection
+
 <img width="327" alt="contours" src="https://user-images.githubusercontent.com/70334332/141000403-af9ef827-02c4-476f-8879-7e28db9795aa.PNG">
+
 Contour detection can be beneficial to use in applications where finding a boundary between something is required. For example, contour detection can be used to create contours of someone's yard boundary for pet/dog monitoring. The system would notify the user when the dog crosses the contour.
 
 Face Detection
+
 <img width="323" alt="face detection" src="https://user-images.githubusercontent.com/70334332/141000738-740d9b46-c400-43fe-972d-f7cf81d4ebbd.PNG">
+
 Face detection is pretty self explanatory. An interesting use case of face detection could be for captcha purposes. This would make captcha's more accessible to people with disabilities who may have visual impairment or perhaps motor impairment. The captcha would use the webcam to detect if there is a person using the computer.
 
 Flow Detection
+
 <img width="323" alt="face detection" src="https://user-images.githubusercontent.com/70334332/141001121-7f47b8ba-5ce9-4bd8-8f72-9278a4e5277c.PNG">
+
 Flow detection can be used for eye-tracking purposes. If we set the object that we're detecting the flow of to be the eyes of a user, the flow detection algorithm would detect the flow of the eyes.
 
 Object Detection
+
 <img width="323" alt="face detection" src="https://user-images.githubusercontent.com/70334332/141001254-65ae667a-aefe-4436-bd5e-60052d8bbd89.PNG">
+
 Object detection can be used in a variety of applications. One example of object detection would be to build an object detector for kids that would teach kids about the object they bring in front of the camera. Instead of asking parents about an object they're interested in, they could just show it to the object detector and it would detect what the object is and give the kid some information about it.
 
 
