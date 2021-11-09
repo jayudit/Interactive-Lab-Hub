@@ -99,6 +99,7 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 ```
 
 **\*\*\*Try each of the following four examples in the `openCV-examples`, include screenshots of your use and write about one design for each example that might work based on the individual benefits to each algorithm.\*\*\***
+
 Contour Detection
 <img width="327" alt="contours" src="https://user-images.githubusercontent.com/70334332/141000403-af9ef827-02c4-476f-8879-7e28db9795aa.PNG">
 Contour detection can be beneficial to use in applications where finding a boundary between something is required. For example, contour detection can be used to create contours of someone's yard boundary for pet/dog monitoring. The system would notify the user when the dog crosses the contour.
