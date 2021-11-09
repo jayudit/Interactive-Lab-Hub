@@ -108,19 +108,19 @@ Contour detection can be beneficial to use in applications where finding a bound
 
 Face Detection
 
-<img width="323" alt="face detection" src="https://user-images.githubusercontent.com/70334332/141000738-740d9b46-c400-43fe-972d-f7cf81d4ebbd.PNG">
+<img width="323" alt="face detection" src="https://user-images.githubusercontent.com/70334332/141001653-9f74f005-d61a-4d0b-9820-7de58a687d19.PNG">
 
 Face detection is pretty self explanatory. An interesting use case of face detection could be for captcha purposes. This would make captcha's more accessible to people with disabilities who may have visual impairment or perhaps motor impairment. The captcha would use the webcam to detect if there is a person using the computer.
 
 Flow Detection
 
-<img width="323" alt="face detection" src="https://user-images.githubusercontent.com/70334332/141001121-7f47b8ba-5ce9-4bd8-8f72-9278a4e5277c.PNG">
+<img width="322" alt="flow" src="https://user-images.githubusercontent.com/70334332/141001675-c6ad88ba-f915-43c3-a72c-d17470821e54.PNG">
 
 Flow detection can be used for eye-tracking purposes. If we set the object that we're detecting the flow of to be the eyes of a user, the flow detection algorithm would detect the flow of the eyes.
 
 Object Detection
 
-<img width="323" alt="face detection" src="https://user-images.githubusercontent.com/70334332/141001254-65ae667a-aefe-4436-bd5e-60052d8bbd89.PNG">
+<img width="322" alt="flow" src="https://user-images.githubusercontent.com/70334332/141001691-2184f263-8966-4744-9d59-7db644eb1eca.PNG">
 
 Object detection can be used in a variety of applications. One example of object detection would be to build an object detector for kids that would teach kids about the object they bring in front of the camera. Instead of asking parents about an object they're interested in, they could just show it to the object detector and it would detect what the object is and give the kid some information about it.
 
