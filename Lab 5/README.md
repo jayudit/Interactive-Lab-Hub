@@ -234,11 +234,16 @@ Using the accelerometer, try the following:
 ### Part B
 ### Construct a simple interaction.
 
-Pick one of the models you have tried, pick a class of objects, and experiment with prototyping an interaction.
-This can be as simple as the boat detector earlier.
-Try out different interaction outputs and inputs.
+Pick one of the models you have tried, pick a class of objects, and experiment with prototyping an interaction. This can be as simple as the boat detector earlier. Try out different interaction outputs and inputs.
+
+For this lab, I will be using the TeachableMachines model by Google to create my interaction. The goal of my project is to build a computer vision based teaching assistant for kids. This is geared towards curious young kids with really busy parents. These kids are always curious about their surroundings and want to learn more about the objects around them. However, their parents are usually not around due to work or extremely busy so they are not able to teach their kids about objects and their functionalities. This teaching assistant will use commputer vision and detect the object that the kid shows to it and tell the kid a little more about what the object is and how/what its used for.
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
+
+The storyboard for my interaction is shown below.
+
+![new doc 2021-11-09 16 58 56_1](https://user-images.githubusercontent.com/70334332/141012928-89282c23-5153-4a57-b72f-4f9f94127c65.jpg)
+
 
 ### Part C
 ### Test the interaction prototype
