@@ -287,13 +287,15 @@ No, not currently.
 
 3. How bad would they be impacted by a miss classification?
 
-A missed classification would decrease the efficiency and value of the product. They won't necessarily be impacted really badly, however, its possible that they wont be able to learn about an object that was misclassified.
+A missed classification would decrease the efficiency and value of the product. They won't necessarily be impacted really badly, however, its possible that they wont be able to learn about an object that was misclassified. This would then reduce the value of the device and product.
 
 5. How could change your interactive system to address this?
 
-One way to change the systm 
+One way to change the interactive system to address this is to have the object detector say that its not able to detect something if its uncertain about a certain object. This uncertainity percentage can be set as a threshold in the system. For example, if the model isn't at least 70% sure about the prediction of a certain object, it would tell the user that object is unable to be classified/detected.
 
 7. Are there optimizations you can try to do on your sense-making algorithm.
+
+One way to optimize the algorithm of the system would be keep collecting training data images as the system is being used in production. For example, the algorithm would collect images that are regulalarly shown to it by the users. These images would then be stored and labelled by a person and then used as training data to train the object detection algorithm. This would increase the breadth and scope of the number of objects that the system can succesfully detect.
 
 ### Part D
 ### Characterize your own Observant system
