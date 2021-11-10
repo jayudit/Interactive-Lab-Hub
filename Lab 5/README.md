@@ -244,22 +244,56 @@ The storyboard for my interaction is shown below.
 
 ![new doc 2021-11-09 16 58 56_1](https://user-images.githubusercontent.com/70334332/141012928-89282c23-5153-4a57-b72f-4f9f94127c65.jpg)
 
+My experimentation plan is as follow:
+1) Experiment with different backgrounds, training sizes, epochs, and learning rates to see which model performs the best.
+2) Train the model with several common objects.
+3) Test the model on the Teachable Machines site before importing it onto the raspberry Pi.
+
 
 ### Part C
 ### Test the interaction prototype
 
+Here are some screenshots of me testing the interaction prototype.
+<img width="764" alt="experimentation1" src="https://user-images.githubusercontent.com/70334332/141023638-31600903-25a2-49ff-b301-c85e2fdd578f.PNG">
+
+<img width="631" alt="experimentation2" src="https://user-images.githubusercontent.com/70334332/141023642-1f686d96-246f-4212-85b1-be7175a28e9b.PNG">
+
+<img width="680" alt="experiment3" src="https://user-images.githubusercontent.com/70334332/141023657-a0ffafbc-f08c-483b-b49d-62800e81d310.PNG">
+
 Now flight test your interactive prototype and **note down your observations**:
 For example:
 1. When does it what it is supposed to do?
-1. When does it fail?
-1. When it fails, why does it fail?
-1. Based on the behavior you have seen, what other scenarios could cause problems?
+
+When the user shows an object that the model was trained with, the prototype correctly identifies that particular object.
+
+3. When does it fail?
+
+There are two scenarios when it fails or doesn't perform.
+
+When the object shown hasn't been used to train the model.
+
+5. When it fails, why does it fail?
+
+The model fails because it hasn't been trained using images of that particular object and therefore can't succesfully detect that object.
+
+7. Based on the behavior you have seen, what other scenarios could cause problems?
+
+When an object that is similar in shape, size, color to an object that was used to train the model, the model may misclassify that object.
 
 **\*\*\*Think about someone using the system. Describe how you think this will work.\*\*\***
 1. Are they aware of the uncertainties in the system?
-1. How bad would they be impacted by a miss classification?
-1. How could change your interactive system to address this?
-1. Are there optimizations you can try to do on your sense-making algorithm.
+
+No, not currently.
+
+3. How bad would they be impacted by a miss classification?
+
+A missed classification would decrease the efficiency and value of the product. They won't necessarily be impacted really badly, however, its possible that they wont be able to learn about an object that was misclassified.
+
+5. How could change your interactive system to address this?
+
+One way to change the systm 
+
+7. Are there optimizations you can try to do on your sense-making algorithm.
 
 ### Part D
 ### Characterize your own Observant system
