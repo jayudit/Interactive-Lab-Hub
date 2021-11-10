@@ -310,7 +310,11 @@ During the lecture, we mentioned questions to help characterize a material:
 * What are other properties/behaviors of X?
 * How does X feel?
 
+All of these answers are answered using a live demonstration of max in the video below.
+
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
+
+https://youtu.be/v7XfxLtwHUA
 
 ### Part 2.
 
