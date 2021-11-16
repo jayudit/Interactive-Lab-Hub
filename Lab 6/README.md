@@ -1,5 +1,7 @@
 # Little Interactions Everywhere
 
+My raspberry Pi stopped working suddenly so I am planning on dropping this lab.
+
 ## Prep
 
 1. Pull the new changes from the class interactive-lab-hub. (You should be familiar with this already!)
